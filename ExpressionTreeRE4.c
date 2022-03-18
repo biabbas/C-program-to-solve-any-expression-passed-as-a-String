@@ -1,3 +1,13 @@
+/******************************************************************************************
+*   Visit https://github.com/the10minoverview/ExpressionTreeRE.c for all files related to  *
+*   project.                                                                               *
+*                                                                                          *
+*                                                                                          *
+*                                                                                          *
+*                                                                                          *
+*                                                                                          *                                                                                         
+*   Created by B I                                                                         *
+******************************************************************************************/      
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
